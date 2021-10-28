@@ -1,0 +1,33 @@
+html, body, div, span, h1, h2, h3, h4, h5 ,h6, p{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body{
+  color: red;
+  background-image: url("oo.png");
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-position: left;
+}
+h1{
+  color: black;
+}
+li>a{
+  color: orange;
+}
+.teal{
+  color: teal;
+}
+img.sml{
+  width: 200px;
+  height: 200px;
+}
+img.med{
+  width: 400px;
+  height: 400px;
+}
+
+p{
+  font-family: 'Scheherazade New', serif;
+}

@@ -1,0 +1,15 @@
+td, th{
+  border: 2px solid black;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+td:nth-child(even), th:nth-child(even) {
+  background-color: #D6EEEE;
+}
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+table{
+  font-family: 'Rajdhani', sans-serif;
+}

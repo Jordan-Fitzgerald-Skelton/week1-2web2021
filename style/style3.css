@@ -1,0 +1,18 @@
+.h11{
+  text-align: center;
+  border: 2px solid powderblue;
+  padding left: 30px;
+}
+.p1{
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  font-family: 'Noto Sans Mono', monospace;
+}
+.p2{
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  font-family: 'PT Serif', serif;
+}
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
